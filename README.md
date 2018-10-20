@@ -13,7 +13,7 @@ The 37 dimensional state space represent a physical model, which consists of:
 * Each ray is projected into the scene. If it encounters one of four detectable objects the value at that position in the array is set to 1. Finally there is a distance measure which is a fraction of the ray length: [Banana, Wall, BadBanana, Agent, Distance]
 * the agent's velocity: Left/right velocity (usually near 0) and Forward/backward velocity (0-11.2)
 
-## Actions
+## Actions description
 
  Four discrete actions are available, corresponding to:
 
