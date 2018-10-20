@@ -9,9 +9,9 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The 37 dimensional state space represent a physical model, which consists of:
 
-* 7 rays projecting from the agent at the following angles: [20, 45, 70, 90, 110, 160, 135] # 90 is directly in front of the agent
+* 7 rays projecting from the agent at the following angles: [20, 45, 70, 90, 110, 160, 135]. 90 is directly in front of the agent
 * Each ray is projected into the scene. If it encounters one of four detectable objects the value at that position in the array is set to 1. Finally there is a distance measure which is a fraction of the ray length: [Banana, Wall, BadBanana, Agent, Distance]
-* the agent's velocity: Left/right velocity (usually near 0) and Forward/backward velocity (0-11.2)
+* The agent's velocity: Left/right velocity (usually near 0) and Forward/backward velocity (0-11.2)
 
 ## Actions description
 
