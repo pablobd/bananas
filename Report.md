@@ -4,7 +4,7 @@
 
 The agent is build following the [nature paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) *Human-level control through deep reinforcement learning*. 
 
-Specifically, the agent learns how to play the game through experience. By playing randomly the game, the agent stores experiences (state, action taken, reward and next state). The agent uses this stored experiences to estimates the q-value function, i.e. for each state and action the expected discounted reward. The agent estimates the q-value function is estimated using a feed forward deep network, with the following architecture: 
+Specifically, the agent learns how to play the game through experience. By playing randomly the game, the agent stores experiences (state, action taken, reward and next state). The agent uses these stored experiences to estimate the q-value function, i.e. for each state and action the expected discounted reward. To estimate it, the agent makes use of a feed forward deep network, with the following architecture: 
 * input layer of 37 units (dimension of state space),
 * hidden layer of 64 units,
 * hidden layer of 32 units,
