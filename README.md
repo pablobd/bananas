@@ -28,4 +28,4 @@ First of all, you need python 3 and conda. We suggest to use the [Anaconda distr
 
 ## How it works
 
-
+After cloning or downloading the repository, open the file  jupyter notebook bananas.ipynb and execute it reading carefully the instructions. Notice that when creating an environemnt for the game we have force the option no_graphics=True. You can change it to False to see a graphic representation of the game.
