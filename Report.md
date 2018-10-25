@@ -14,4 +14,4 @@ Specifically, the agent learns how to play the game through experience. By playi
 
 This solution solves the game in 462 episodes.
 
-![alt text](https://raw.githubusercontent.com/pablobd/bananas/bananas_result.png)
+![alt text](https://raw.githubusercontent.com/pablobd/bananas/blob/master/bananas_result.png)
