@@ -12,4 +12,4 @@ Specifically, the agent learns how to play the game through experience. By playi
 
 ## Results
 
-This solution solves the game in 462 episodes.
+This solution solves the game in 462 episodes, which is much faster than the proposed solution at Udacity.
