@@ -13,3 +13,14 @@ Specifically, the agent learns how to play the game through experience. By playi
 ## Results
 
 This solution solves the game in 462 episodes, which is much faster than the proposed solution at Udacity.
+
+![alt text](https://github.com/pablobd/bananas/blob/master/bananas_result.png)
+
+
+## Improvements
+
+In the next release, we want to add three parameters to the agent class to enable several functions that would theoretically improve the performance of the agent:
+* Double DQN, [paper](https://arxiv.org/abs/1509.06461)
+* Prioritized experience replay, [paper](https://arxiv.org/abs/1511.05952)
+* Dueling Q Network, [paper] (https://arxiv.org/abs/1511.06581)
+>>>>>>> 983808d5c18b51aea8dc45a1d6e1306fff56811c
