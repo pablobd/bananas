@@ -23,4 +23,3 @@ In the next release, we want to add three parameters to the agent class to enabl
 * Double DQN, [paper](https://arxiv.org/abs/1509.06461)
 * Prioritized experience replay, [paper](https://arxiv.org/abs/1511.05952)
 * Dueling Q Network, [paper] (https://arxiv.org/abs/1511.06581)
->>>>>>> 983808d5c18b51aea8dc45a1d6e1306fff56811c
