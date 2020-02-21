@@ -21,4 +21,4 @@ This solution solves the game in 462 episodes, which is much faster than the pro
 
 In the next release, we want to add three parameters to the agent class to enable several functions that would theoretically improve the performance of the agent:
 * Double DQN, [paper](https://arxiv.org/abs/1509.06461)
-* Prioritized experience replay, [paper](https://arxiv.org/abs/1511.05952), A special data structure called a `Sum Tree`. I found a good implementation [here](https://github.com/rlcode/per).
+* Prioritized experience replay, [paper](https://arxiv.org/abs/1511.05952). A special data structure called a `Sum Tree`. I found a good implementation [here](https://github.com/rlcode/per).
